@@ -7,6 +7,6 @@ ngui
 [github 소스 다운받기](http://blog.naver.com/whostheman/220158149231)
 
 
-책의 오류나 문의가 있으신 경우 [저자 블로그](http://blog.naver.com/whostheman)로 연락부탁드립니다.
+책의 오류나 문의가 있으신 경우 [저자 블로그](http://blog.naver.com/whostheman)나 [위키북스 공식 페이지](http://wikibook.co.kr/unity-ngui/)로 연락부탁드립니다.
 
 감사합니다.
