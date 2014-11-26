@@ -2,9 +2,9 @@
 ====
 업로드된 유니티 프로젝트는 아래와 같습니다.
 
-기초과정 두더지게임(02_basic_CatchCatch)
-심화과정 프로토타입(03_Prototype)
-심화과정 디펜스게임(03_advanced_FarmDefence)
+* 기초과정 두더지게임(02_basic_CatchCatch)
+* 심화과정 프로토타입(03_Prototype)
+* 심화과정 디펜스게임(03_advanced_FarmDefence)
 
 
 주의사항
