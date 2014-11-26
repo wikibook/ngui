@@ -1,0 +1,106 @@
+fileFormatVersion: 2
+guid: 02b997b9b21cc46ad8442b40b00283e9
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Farmer_Hat
+    21300002: Farmer_Head
+    21300004: Farmer_Body
+    21300006: Farmer_Arm
+    21300008: Farmer_Leg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Farmer_Hat
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 727
+        width: 556
+        height: 289
+      alignment: 9
+      pivot: {x: .5, y: .140839994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Farmer_Head
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 207
+        width: 577
+        height: 473
+      alignment: 9
+      pivot: {x: .520650804, y: .0534459911}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Farmer_Body
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 54
+        width: 170
+        height: 178
+      alignment: 9
+      pivot: {x: .547439754, y: .127471715}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Farmer_Arm
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 68
+        width: 95
+        height: 100
+      alignment: 9
+      pivot: {x: .817620873, y: .6716609}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Farmer_Leg
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 70
+        width: 66
+        height: 90
+      alignment: 9
+      pivot: {x: .547157288, y: .861066699}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: famer
+  userData: 

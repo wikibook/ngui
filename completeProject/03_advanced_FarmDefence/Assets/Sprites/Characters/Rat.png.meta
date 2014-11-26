@@ -1,0 +1,95 @@
+fileFormatVersion: 2
+guid: 1672ec4828eae480ea82c8540d566428
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Rat_Head
+    21300002: Rat_Arm
+    21300004: Rat_Body
+    21300006: Rat_Leg
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: -2
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: Rat_Head
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 373
+        width: 830
+        height: 635
+      alignment: 9
+      pivot: {x: .490674704, y: .0764340386}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rat_Arm
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 218
+        width: 155
+        height: 114
+      alignment: 9
+      pivot: {x: .868067861, y: .71422267}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rat_Body
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 80
+        width: 401
+        height: 255
+      alignment: 9
+      pivot: {x: .33111009, y: .143353805}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Rat_Leg
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 38
+        width: 99
+        height: 124
+      alignment: 9
+      pivot: {x: .522542298, y: .864943624}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: Enemy
+  userData: 

@@ -1,0 +1,135 @@
+fileFormatVersion: 2
+guid: 122e468a638874cb6b4ef87e34eded45
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Char_Head
+    21300002: Char_ArmL
+    21300004: Char_Body
+    21300006: Char_ArmR
+    21300008: Char_ThighL
+    21300010: Char_FootR
+    21300012: Char_ThighR
+    21300014: Char_FootL
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: 1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Char_Head
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 272
+        width: 213
+        height: 294
+      alignment: 9
+      pivot: {x: .540000021, y: .0399999991}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Char_ArmL
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 141
+        width: 39
+        height: 105
+      alignment: 9
+      pivot: {x: .519999981, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Char_Body
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 113
+        width: 84
+        height: 142
+      alignment: 9
+      pivot: {x: .529999971, y: .159999996}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Char_ArmR
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 150
+        width: 38
+        height: 106
+      alignment: 9
+      pivot: {x: .479999989, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Char_ThighL
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 73
+        width: 17
+        height: 44
+      alignment: 9
+      pivot: {x: .449999988, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Char_FootR
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 54
+        width: 22
+        height: 45
+      alignment: 9
+      pivot: {x: .409999996, y: .819999993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Char_ThighR
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 92
+        width: 17
+        height: 44
+      alignment: 9
+      pivot: {x: .449999988, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Char_FootL
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 35
+        width: 21
+        height: 45
+      alignment: 9
+      pivot: {x: .409999996, y: .819999993}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: char_proto
+  userData: 
