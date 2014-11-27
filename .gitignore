@@ -15,7 +15,7 @@
 **/*.userprefs
 **/*.pidb
 **/*.booproj
-**/*.asset
+#**/*.asset
 
 **/NGUI/
 
